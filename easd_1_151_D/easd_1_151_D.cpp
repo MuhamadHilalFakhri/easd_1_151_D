@@ -15,3 +15,6 @@ void Input(int arr[], int n) {
     }
 } 
   
+void selectionsort(int arr[], int n) {
+
+}
