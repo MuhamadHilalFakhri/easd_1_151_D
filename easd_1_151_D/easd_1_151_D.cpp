@@ -50,4 +50,4 @@ int main() {
     selectionsort[arr, n];
     display[arr, n];
 } 
-
+ 
