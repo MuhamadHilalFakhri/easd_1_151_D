@@ -41,3 +41,13 @@ void display(int arr[], int n)
         cout << arr[i];
     }
 }
+
+int main() {
+    int n = 1405;
+    int arr[n];
+
+    Input[arr, n];
+    selectionsort[arr, n];
+    display[arr, n];
+}
+
