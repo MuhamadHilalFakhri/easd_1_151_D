@@ -3,7 +3,7 @@
 // 2. Static dan dynamic
 // 3. Ukuran input,bahasa pemrograman
 // 4. Selection sort, karena konsep dari selection sort adalah mencari nilai terkecil dan menukarnya dengan indeks paling awal pada setiap tahap
-// 5. - Quadratic = Bubble sort, selection sort, insertion sort - Loglinear = Quick sort, merge sort, dam sort
+// 5. - Quadratic = Bubble sort, selection sort, insertion sort - Loglinear = Quick sort, merge sort, dan sell sort
 
 #include <iostream>
 using namespace std;
