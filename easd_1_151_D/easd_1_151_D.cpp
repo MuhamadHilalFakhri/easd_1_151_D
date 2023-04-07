@@ -33,3 +33,8 @@ void selectionsort(int arr[], int n)
         arr[min_index] = temp;
     }
 } 
+
+void display(int arr[], int n)
+{
+
+}
