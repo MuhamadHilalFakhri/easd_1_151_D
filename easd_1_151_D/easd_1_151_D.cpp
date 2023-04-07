@@ -28,6 +28,8 @@ void selectionsort(int arr[], int n)
                 min_index = MHF;
             }
         }
-
+        int temp = arr[MHF];
+        arr[MHF] = arr[min_index];
+        arr[min_index] = temp;
     }
 } 
