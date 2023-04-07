@@ -49,5 +49,5 @@ int main() {
     Input[arr, n];
     selectionsort[arr, n];
     display[arr, n];
-}
+} 
 
