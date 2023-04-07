@@ -13,5 +13,5 @@ void Input(int arr[], int n) {
     for (int MHF = 0; MHF < n; MHF++) {
         cin >> arr[MHF];
     }
-}
- 
+} 
+  
