@@ -8,13 +8,26 @@
 #include <iostream>
 using namespace std;
 
-void Input(int arr[], int n) {
+void Input(int arr[], int n) 
+{
     cout << "Masukkan data : ";
     for (int MHF = 0; MHF < n; MHF++) {
         cin >> arr[MHF];
     }
 } 
   
-void selectionsort(int arr[], int n) {
+void selectionsort(int arr[], int n) 
+{
+    for (int MHF = 0; MHF < n - 1; MHF++) 
+    {
+        int min_index = MHF;
+        for (int i = MHF + 1; i < n; i++) 
+        {
+            if (arr[MHF] < arr[min_index])
+            {
+                min_index = MHF;
+            }
+        }
 
-}
+    }
+} 
