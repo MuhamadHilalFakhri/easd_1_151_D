@@ -14,3 +14,4 @@ void Input(int arr[], int n) {
         cin >> arr[MHF];
     }
 }
+ 
